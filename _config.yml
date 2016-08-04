@@ -1,0 +1,14 @@
+layout_spectrum: 0.45261148433201015
+typography_spectrum: 0.6805786369368434
+color:
+  brandStrength: 0.8468644423410296
+  lightness: 0.12338754744268954
+  saturation: 0.8206998587120324
+  rhythmicContrast: 0.14621002692729235
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Dom
